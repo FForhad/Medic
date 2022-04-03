@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidApp/Medic/app/src/main/res/layout/activity_dr_schedule.xml" value="0.1717948717948718" />
+        <entry key="..\:/AndroidApp/Medic/app/src/main/res/layout/activity_main.xml" value="0.1717948717948718" />
+        <entry key="..\:/Medic/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/admin_trending.xml" value="0.3635" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/admintrendy.xml" value="0.3635" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/blue_in_white_button.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/edit_round.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/header_background.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/header_background_admin.xml" value="0.2235" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/header_background_agent.xml" value="0.3635" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_account_circle.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_favorite.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_favorite_border.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/ic_settings.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/search_icon_background.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/trebding_background.xml" value="0.117" />
+        <entry key="..\:/Medic/app/src/main/res/drawable/white_rectangle_background.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_account_recover.xml" value="0.21452991452991452" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_add_agent.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_admin.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_admin_home.xml" value="0.2936708860759494" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_agent.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_agent_home.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_cardio_surgery.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_cardiology.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_child_specialist.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_create.xml" value="0.26353790613718414" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_dash.xml" value="0.24259259259259258" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_dentist.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_dr_schedule.xml" value="0.14852320675105485" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_home.xml" value="0.21452991452991452" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_hos_seat.xml" value="0.21452991452991452" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_kidney_specialist.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_log_type.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_login.xml" value="0.20213675213675214" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_main.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_neurology.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_notice_board.xml" value="0.1" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_psychiatist.xml" value="0.29282700421940927" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_psychiatrist.xml" value="0.2935897435897436" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_reg.xml" value="0.19957805907172996" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_register.xml" value="0.18461538461538463" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_report.xml" value="0.15763888888888888" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_seat.xml" value="0.2722222222222222" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_seat_admin.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/layout/activity_seat_agent.xml" value="0.29743589743589743" />
+        <entry key="..\:/Medic/app/src/main/res/menu/navigation_menu.xml" value="0.14166666666666666" />
+        <entry key="..\:/Medic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/mabaq/Desktop/Medic/app/src/main/res/layout/activity_admin_report.xml" value="0.21495726495726497" />
+        <entry key="..\:/Users/mabaq/Desktop/Medic/app/src/main/res/layout/activity_report.xml" value="0.21495726495726497" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

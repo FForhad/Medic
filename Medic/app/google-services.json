@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854235488761",
+    "project_id": "medic-f205b",
+    "storage_bucket": "medic-f205b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854235488761:android:4259d02b8c2673df295d28",
+        "android_client_info": {
+          "package_name": "com.example.medic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854235488761-mj95incq4ocnbfpsr3ku1p85q09svr9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscDNUGP4-B5uEykV0XxLOrvHdFwF_2-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854235488761-mj95incq4ocnbfpsr3ku1p85q09svr9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medic">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Medic">
+        <activity
+            android:name=".AdminReportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeatAdminActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeatAgentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddAgentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AgentHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AgentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LogTypeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.LoginAsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login_as" />
+        <activity
+            android:name=".NoticeBoardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PsychiatristActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DentistActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NeurologyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChildSpecialistActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KidneySpecialistActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardioSurgeryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardiologyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ReportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DrScheduleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HosSeatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DashActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AccountRecoverActivity"
+            android:exported="false"
+            android:label="@string/title_activity_account_recover"
+            android:theme="@style/Theme.Medic.NoActionBar" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
