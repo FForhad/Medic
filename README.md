@@ -1,41 +1,39 @@
-<h1 align="center" id="title">Medic</h1>
 
-<p align="center"><img src="https://socialify.git.ci/FForhad/Medic/image?font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+# Medic
 
-<p id="description">An Android App by kotlin name Medic which have two features for general users.</p>
+An Android App by kotlin name Medic which have two features for general users.
 
-<p>One is find out hospital's available seat in emergency in city and another is see the doctor details and book appointment over phone call.</p>
+One is find out hospital's available seat in emergency in city and another is see the doctor details and book appointment over phone call.
 
-<p>There are three parts of this app (Admin Agent and User).</p>
+There are three parts of this app (Admin Agent and User).
 
-<p>User: A new user can register and use this all facilities.</p>
+User: A new user can register and use this all facilities.
 
-<p>Agent: can update hospital seats and doctors contact numbers. But he can not register he have to mail to the admin panel for login.</p>
+Agent: can update hospital seats and doctors contact numbers. But he can not register he have to mail to the admin panel for login.
 
-<p>Admin: Admin can register Agent from this app and monitor other functions as well as can see the report.</p>
+Admin: Admin can register Agent from this app and monitor other functions as well as can see the report.
 
 Here used the firebase database.
 
-<h2>🚀 Demo</h2>
 
-[https://www.linkedin.com/posts/fforhad\_android-kotlin-firebase-activity-6916361873634320384-ElQY?utm\_source=share&utm\_medium=member\_desktop](https://www.linkedin.com/posts/fforhad_android-kotlin-firebase-activity-6916361873634320384-ElQY?utm_source=share&utm_medium=member_desktop)
+## Authors
 
-<h2>Project Screenshots:</h2>
-
-<img src=”[(your image URL here)](https://drive.google.com/file/d/16MYIo9REFR_KXVQbOUMQ6JiS9BUHrsMI/view?usp=sharing)”>
+- [@fforhad](https://www.github.com/fforhad)
 
 
-<h2>🍰 Contribution Guidelines:</h2>
+## Screenshots
 
-the projects implementation is made in my hand and some of UI design made by another person.
+![Splash screen](https://lh3.googleusercontent.com/pw/AIL4fc9ylH-40mJxU6EsGAsux5gHBz1K8mUCv0nQTHnQBOvNjA4NM0B_sdxxX3qDvSqBTP1slKLI4c8DrhX1Ozck1S0upmaeypfqb7Tj54mVSf_afPRpLH4AX6NC5B8pFSBExqZJF85CCOPNVgeU0ecQpxshuIntoLscz6TzwJmAXNu5ZUemVlPvN9ed5TdUiSnXQTXOs3x6dtAe7gyVjh1j-Uu_NSTmLfz_EED2qKwO9iXijnFMGJidDSUF5gQUwMdWar83HuWPHSD-gKNTEZGU0WQg37BB8AaGE9HvnTDEOiImn_mUw2-64YfoKTWl5dIIAyejuIoGowhl6PYi_iZjZ7QdBsR1P5rec_I8LtE43AsnNGzvi_qx0Qf-W1hnCW7A2pJSl4J8pUN2ELEIEVbou_TcloQoswarXdatBz950pun_fs24f4X6TQH5c1NYKQO_DRCBH7ibLP2lyuWgOpahaBMiDIPjYiKJgfh-LHBDAXxeAe5Pax1YAJntsEeftAV1Jh7OolVqhTHtJy3T-UqcAwYd2mjGaTEXGVK7D3XHMe0GeyrZmPd4LmU2HzYZg_Lev3rViQIAlhS29RPR7bToK7VGzR1mnU35SzU1ya50UfJS-AeflLIHthRCNPbE9JeVB50YOx0WWV8Nrh0Y3DV2JoFgg-ZAfwKgJgiz29lhdYPUuZa18jVSljJxaI2AS7LvAQsEdR7IbQ1qcdFUFUD8bmLMfpfGWjNihdICoOqx12-kD0-dODBVfw7EXOZhoveKQ_jV5v3Hed8XngTKDAyAJB3FNLn07zZPnPjSbLGX6wLiHm1HzvwtqI8d1LvXJsGKBJKQKYqkb1PKsYLXYM1CWSKPTtDnPb2l3xIi-OVCBC7QBcDEKEuHQdWWpdPsQci1pMqQiPZothLjDaHbaKBW73j2Oturi_9CWlvCW9d7s4m3Ju1aQwWGdLL8IU3oJadfzh17tItRbbLIOMMn9NYTSsgriLMjlGB=w401-h893-s-no?authuser=0)
 
-  
-  
-<h2>💻 Built with</h2>
 
-Technologies used in the project:
 
-*   Kotlin 1.8.0
-*   Firebase
-*   Figma
-*   Android Studio
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
