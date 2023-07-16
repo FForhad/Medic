@@ -22,10 +22,8 @@ Here used the firebase database.
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/16MYIo9REFR_KXVQbOUMQ6JiS9BUHrsMI/view?usp=sharing" alt="project-screenshot" width="200" height="400/">
-<img src="" alt="project-screenshot" width="200" height="400/">
-<img src="" alt="project-screenshot" width="200" height="400/">
-<img src="" alt="project-screenshot" width="200" height="400/">
+<img src=”[(your image URL here)](https://drive.google.com/file/d/16MYIo9REFR_KXVQbOUMQ6JiS9BUHrsMI/view?usp=sharing)”>
+
 
 <h2>🍰 Contribution Guidelines:</h2>
 
